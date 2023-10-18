@@ -12,7 +12,7 @@ object Constants {
     const val AUTH_HEADER = "KakaoAK 3fa953962ea37d38b1c5fde88b4313a0"
 
     // 앱의 Shared Preferences 파일 이름입니다.
-    const val PREFS_NAME = "com.jblee.imagesearch.prefs"
+    const val PREFS_NAME = "com.example.imagesearch.prefs"
 
     // 마지막 검색어를 저장하기 위한 키 값입니다.
     const val PREF_KEY = "IMAGE_SEARCH_PREF"
