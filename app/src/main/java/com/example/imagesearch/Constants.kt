@@ -9,7 +9,7 @@ object Constants {
     const val BASE_URL = "https://dapi.kakao.com"
 
     // Kakao API를 사용하기 위한 인증 헤더입니다.
-    const val AUTH_HEADER = "KakaoAK 7581f80aa0c7a862f5cd0af5865d9511"
+    const val AUTH_HEADER = "KakaoAK 3fa953962ea37d38b1c5fde88b4313a0"
 
     // 앱의 Shared Preferences 파일 이름입니다.
     const val PREFS_NAME = "com.jblee.imagesearch.prefs"
