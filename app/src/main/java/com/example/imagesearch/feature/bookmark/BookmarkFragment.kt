@@ -40,7 +40,7 @@ class BookmarkFragment : Fragment() {
         val mainActivity = activity as MainActivity
         likedItems = mainActivity.likedItems
 
-        Log.d("BookmarkFragment", "#jblee likedItems size = ${likedItems.size}")
+        Log.d("BookmarkFragment", "#example likedItems size = ${likedItems.size}")
 
         // 어댑터 설정
         adapter = BookmarkAdapter(mContext).apply {

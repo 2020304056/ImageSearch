@@ -109,7 +109,7 @@ class SearchFragment : Fragment() {
                 }
 
                 override fun onFailure(call: Call<ImageModel?>, t: Throwable) {
-                    Log.e("#jblee", "onFailure: ${t.message}")
+                    Log.e("#example", "onFailure: ${t.message}")
                 }
             })
     }
